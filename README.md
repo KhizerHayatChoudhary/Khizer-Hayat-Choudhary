@@ -23,7 +23,7 @@ I'm a **3rd year Computer Science student at John Abbott College** with a passio
 ## 📫 How to Reach Me
 
 - **Email:** khizerchou@gmail.com
-- **LinkedIn:** [[Khizer Hayat Choudhary](https://www.linkedin.com/in/khizerhayatchoudhary/](https://ca.linkedin.com/in/khizer-choudhary-022189336))
+- **LinkedIn:** [Khizer Hayat Choudhary](https://www.linkedin.com/in/khizerhayatchoudhary/](https://ca.linkedin.com/in/khizer-choudhary-022189336))
 
 ## ⚡ Fun Facts
 
