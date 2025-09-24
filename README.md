@@ -8,7 +8,7 @@ I'm a **3rd year Computer Science student at John Abbott College** with a passio
 - 💻 **Computer Science Student** @ John Abbott College
 - 🧑‍💻 Always eager to learn and explore new technologies
 - 🚀 Interested in productivity, automation, and finance tools
-- 🌱 Currently learning about CI/CD, cloud platforms, and efficient coding practices
+
 
 ## 🛠️ Tech Stack
 
