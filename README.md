@@ -33,6 +33,4 @@ I'm a **3rd year Computer Science student at John Abbott College** with a passio
 
 ---
 
-![Khizer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhizerHayatChoudhary&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
-
 Thanks for visiting! Let’s connect, collaborate, or check out my repositories. 🚀
