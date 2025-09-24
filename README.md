@@ -12,10 +12,10 @@ I'm a **3rd year Computer Science student at John Abbott College** with a passio
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, Go
-- **Frameworks:** React, Node.js, Express
-- **Tools:** Docker, GitHub Actions, Firebase
-- **Cloud:** AWS, Azure (learning)
+- **Languages:** Python, JavaScript, TypeScript, C# ,WPF
+- **Frameworks:** React, Node.js,
+- **Tools:** Docker, GitHub Actions,
+- **Cloud:**  Azure (learning)
 
 ## 🌟 Featured Projects
 
